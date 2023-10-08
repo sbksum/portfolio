@@ -18,7 +18,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 Money Lending business makes money by lending loans to its customer. Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. Using EDA to find out how consumer attributes and loan attributes influence the tendency of default.
 
-<center><img src="https://i.ytimg.com/vi/uldPqMh7-AE/maxresdefault.jpg"/></center>
+<center><img src="https://i.ytimg.com/vi/uldPqMh7-AE/maxresdefault.jpg" width="300" height="300" /></center>
 
 ----
 ### Linear Regression - Bike Demand Prediction 
@@ -27,7 +27,7 @@ Money Lending business makes money by lending loans to its customer. Lending loa
 
 This project aims to build a multiple linear regression model for the prediction of demand for shared bikes.
 
-<center><img src="http://www.stanford.edu/class/stats202/figs/Chapter3/3.1.png"/></center>
+<center><img src="http://www.stanford.edu/class/stats202/figs/Chapter3/3.1.png" width="300" height="300"/></center>
 
 ----
 ### LSTM Neural Network for Time Series Prediction
